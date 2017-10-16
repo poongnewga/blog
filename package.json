@@ -1,5 +1,6 @@
 {
   "name": "blog",
+  "author": "Hee Jae Chae",
   "version": "0.0.0",
   "private": true,
   "scripts": {
